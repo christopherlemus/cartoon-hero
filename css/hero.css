@@ -76,3 +76,8 @@ p.caption{
     font-style: italic;
     margin-top: 0;
 }
+
+::selection {
+    background-color: #ff6200;
+    color: #444;
+}
